@@ -1,0 +1,17 @@
+problem3/WaterVacuumCleaner.java
+ problem3.WaterVacuumCleaner
+problem2/Vehicle.java
+ problem2.Vehicle
+problem2/OlderVehicleFilter.java
+ problem2.OlderVehicleFilter
+ problem2.OlderVehicleFilter$OlderVehiclesFilter
+problem3/VacuumCleaner.java
+ problem3.VacuumCleaner
+problem3/Main.java
+ problem3.Main
+problem3/DirtVacuumCleaner.java
+ problem3.DirtVacuumCleaner
+problem3/VacuumCleanerFactory.java
+ problem3.VacuumCleanerFactory
+problem1/TrendingTopics.java
+ problem1.TrendingTopics

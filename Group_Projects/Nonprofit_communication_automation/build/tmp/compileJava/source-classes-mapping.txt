@@ -1,0 +1,10 @@
+automator/CommunicationGenerator.java
+ automator.CommunicationGenerator
+automator/CommandLineParser.java
+ automator.CommandLineParser
+automator/Supporter.java
+ automator.Supporter
+automator/Main.java
+ automator.Main
+automator/CSVReader.java
+ automator.CSVReader

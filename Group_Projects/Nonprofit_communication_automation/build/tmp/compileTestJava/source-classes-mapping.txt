@@ -1,0 +1,6 @@
+automator/CommandLineParserTest.java
+ automator.CommandLineParserTest
+automator/SupporterTest.java
+ automator.SupporterTest
+automator/CSVReaderTest.java
+ automator.CSVReaderTest

@@ -1,0 +1,11 @@
+-classpath 'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\build\\classes\\java\\main;C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\build\\resources\\main'
+-d 'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\build\\docs\\javadoc'
+-doctitle 'HW8 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'HW8 1.0-SNAPSHOT API'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\src\\main\\java\\automator\\CommandLineParser.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\src\\main\\java\\automator\\CommunicationGenerator.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\src\\main\\java\\automator\\CSVReader.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\src\\main\\java\\automator\\Main.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW8\\src\\main\\java\\automator\\Supporter.java'

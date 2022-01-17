@@ -1,0 +1,22 @@
+problem2/Destination.java
+ problem2.Destination
+problem3/Restaurant.java
+ problem3.Restaurant
+problem1/Vehicle.java
+ problem1.Vehicle
+problem1/VehicleOperator.java
+ problem1.VehicleOperator
+problem3/Guest.java
+ problem3.Guest
+problem1/VehicleOperatorProcessor.java
+ problem1.VehicleOperatorProcessor
+problem3/RestaurantRecommender.java
+ problem3.RestaurantRecommender
+problem2/CanadaTripComparator.java
+ problem2.CanadaTripComparator
+problem3/StringProcessor2.java
+ problem3.StringProcessor2
+problem2/TravelerIterator.java
+ problem2.TravelerIterator
+problem2/Traveler.java
+ problem2.Traveler

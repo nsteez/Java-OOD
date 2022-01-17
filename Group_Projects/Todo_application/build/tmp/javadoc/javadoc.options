@@ -1,0 +1,15 @@
+-classpath 'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\build\\classes\\java\\main;C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\build\\resources\\main'
+-d 'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\build\\docs\\javadoc'
+-doctitle 'HW9 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'HW9 1.0-SNAPSHOT API'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\controller\\ITodoApplication.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\controller\\Main.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\controller\\TodoApplication.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\errorHandling\\EmptyTodoListException.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\model\\CLIParser.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\model\\Command.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\model\\CSVProcessor.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\model\\Todo.java'
+'C:\\Users\\Nett\\Desktop\\CS5004\\Group_Abe_Shouse_Salim_Nader_Netti_Welsh\\HW9\\src\\main\\java\\todoApplication\\view\\DisplayTodos.java'

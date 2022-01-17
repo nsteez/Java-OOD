@@ -1,0 +1,10 @@
+problem1/Main.java
+ problem1.Main
+problem2/Swimmer.java
+ problem2.Swimmer
+problem3/ISwimmers.java
+ problem3.ISwimmers
+problem3/SwimmersIterator.java
+ problem3.SwimmersIterator
+problem3/SwimmerList.java
+ problem3.SwimmerList
